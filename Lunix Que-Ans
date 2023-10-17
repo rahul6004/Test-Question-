@@ -2,4 +2,41 @@
 -> To compress files and directories using tar, you typically combine it with other 
     compression tools like gzip, bzip2, or xz to create compressed archive files.
 
-2. 
+2. What is sudo in Linux?
+-> sudo is a command in Linux and Unix-like operating systems that stands for "Superuser Do."
+   It is used to allow authorized users to execute commands as another user,
+    usually the superuser (root), as well as to perform administrative tasks.
+
+3. Write commands to create file and directory?
+-> File: 1. # touch filename
+         2. # echo "This is the content of the file" > filename
+         3. # nano filename / vim filename
+   Directory:  1. # mkdir directory_name
+
+4. What are the file permissions in linux?
+->  Read (r): Allows a user to view the content of a file or list the contents of a directory.
+    Write (w): Permits a user to modify the contents of a file or create, delete, and rename files in a directory.
+    Execute (x): Grants the user the ability to run or execute a file and subdirectories within a directory.
+
+5. How to check memory stats and cpu stats as a Linux admin?
+->  top Command: In addition to memory statistics, the top command provides real-time CPU usage information.
+
+6. What command is used to check the number of files, disk space and each user's
+-> df Command: The df (disk free) command is used to display information about disk space usage on all mounted file systems.
+
+7. How do you terminate an ongoing process?
+->  Using 'kill <process_id>' to kill or terminate process.
+
+8. How can you append one file to another in Linux?
+->  Using 'cat file1 >> file2' to append one file to another file.
+
+9. What is grep command and give an example
+->  The grep command in Linux is a powerful text-searching utility that allows you to search for patterns (regular expressions)
+    within text files or the output of other commands. The name "grep" stands for "Global Regular Expression Print."
+    ex.  grep "Linux" sample.txt -> to find 'Linux' word in sample.txt
+
+10. What is awk command and give an example
+
+
+
+
