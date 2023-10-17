@@ -1,0 +1,5 @@
+1. How do you compress and decompress files in Linux?
+-> To compress files and directories using tar, you typically combine it with other 
+    compression tools like gzip, bzip2, or xz to create compressed archive files.
+
+2. 
