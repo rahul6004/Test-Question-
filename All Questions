@@ -1,0 +1,102 @@
+LINUX
+1. How do you compress and decompress files in Linux?
+2. What is sudo in Linux?
+3. Write commands to create file and directory?
+4. What are the file permissions in linux?
+5. How to check memory stats and cpu stats as a Linux admin?
+6. What command is used to check the number of files, disk space and each user's
+7. How do you terminate an ongoing process?
+8. How can you append one file to another in Linux?
+9. What is grep command and give an example
+10. What is awk command and give an example
+11. What is sed command and give an example 12. Command for install and update software package?
+13. What is the find command, and how do you use it?
+14. What are the most important Linux commands?
+15. What is the difference between /etc/passwd and /etc/shadow files?\
+
+=============================================================================================================
+
+Git
+1. What is Version control system or Source code manager?
+2. Difference between Git and SVN?
+3. Two types of git authentication?
+4. Branches in Git and its purpose?
+5. What are Pull requests?
+6. How to setup repository in git hub and clone it?
+7. What is git config command user for?
+8. Git config data is stored in what location?
+9. Git adds/commit command's purpose?
+10. Git fetches vs git merge vs git pull?
+11. What is git web hooks?
+12. Tell me the branching strategies you followed for your project? 13. What is git rebase vs stash?
+﻿
+=============================================================================================================﻿
+
+JENKINS & MAVEN
+1. What is Continuous Integration?
+2. What is the difference between Jenkins, Maven?
+3. What are the SCM that Jenkins supports?
+4. Mention all the plug-in you used in Jenkins and its purpose?
+5. How do you clone git repo in Jenkins job?
+6. How do you build java code with Maven in Jenkins?
+7. What is downstream and upstream job?
+8. What is workspace in Jenkins?
+9. What is build pipeline?
+10. How to create users in Jenkins?
+11. How to add/remove/disconnect nodes in Jenkins?
+12. How to restrict Jenkins job to execute on a particular node? 13. Jenkins Backup?
+14. What is the location of workspace of jobs in Jenkins server? 15. Benefits of using Nodes in Jenkins?
+16. What are the different phases in the Maven Build Lifecycle? 17. What is POM?
+18. What all is included in the POM?
+19. What are the minimum required elements for POM?
+20. How do you know the version of Maven being used?
+
+==============================================================================================================
+
+DOCKER
+1. What id difference between virtualization and containerization?
+2. Explain Docker Architecture?
+3. How do create Docker image from Docker file?
+4. Difference between Copy and Add
+5. Can you tell the difference between CMD and ENTRYPOINT?
+6. How do create Docker Container?
+7. What is port forwarding in docker what is the use of it?
+8. How do create Docker image from Docker file?
+9. What is docker system prune and docker image prune?
+10. Difference between overlay network and host network?
+11. What is difference between bridge network and custom bridge network?
+12. How do you define network in the Docker compose file?
+13. How to remove Docker containers and Docker images?
+14. what is Docker volumes
+15. What is Docker composing?
+
+============================================================================================================
+
+KUBERNATES
+1. What is difference between Docker swarm and Kubernetes?
+2. Explain Kubernetes Advantages?
+3. Explain Kubernetes architecture?
+4. What is a pod?
+5. Pod is in pending state, what are the possible reasons?
+6. What is a service and what are the different types of services?
+7. What is deployment and deployment strategies?
+8. How to check the logs of a pod or deployment?
+9. How to rollback the deployment?
+10. What is metric server and hpa?
+11. what is livenessprobe and readynessprobe
+12. difference between PV and pvc
+13. difference between secret and configmap
+14. What is crashloopbackoff error and what are the possible reasons it? 15. What is ingress?
+
+============================================================================================================
+
+ANSIBLE
+1. What is the default location for Ansible?
+2. Where is Inventory file located by default?
+3. What are the major advantages of using Ansible?
+4. Difference between Ansible, chef and puppet?
+5. What are the things Ansible can do?
+6. What language Ansible is written in?
+7. What are the requirements of the Ansible server?
+8. Is it possible to create own modules with Ansible?
+9. Which module can be utilized to copy files from a remote machine to a control machine? 10. Write sample playbook?
